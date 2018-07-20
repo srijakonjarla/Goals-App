@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+
+        android:id="@+id/add_friend"
+        android:title="Add Friends"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+
+        />
+
+    <item
+
+        android:id="@+id/view_friend"
+        android:title="View Friends"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+
+        />
+
+    <item
+
+        android:id="@+id/to_do"
+        android:title="ToDo"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never"
+
+        />
+
+</menu>
